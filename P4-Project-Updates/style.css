@@ -291,6 +291,7 @@ a:hover {
 
 #bloc-2-services p {
     font-size: 11px;
+    color: black;
 }
 
 .navbar {
@@ -653,7 +654,8 @@ h5,
 h6,
 label,
 .btn,
-a {
+a
+ {
     font-family: "helvetica";
     font-weight: 400;
     color: #364577!important;
@@ -778,7 +780,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #fff;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
